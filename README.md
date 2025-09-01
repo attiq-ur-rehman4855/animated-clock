@@ -26,36 +26,7 @@ The clock updates in real-time with smooth hand movements and a stylish responsi
 
 ---
 
-## 📂 Project Structure  
-# ⏰ Animated Clock  
-
-This is a simple **Animated Analog Clock** created using **HTML5, CSS3, and JavaScript**.  
-The clock updates in real-time with smooth hand movements and a stylish responsive design.  
-
----
-
-## 📸 Preview  
-![Clock Screenshot](image/preview.png)  
-
----
-
-## 🚀 Features  
-- Real-time working analog clock  
-- Smooth animation for hour, minute, and second hands  
-- Clean and modern UI design  
-- Fully responsive layout  
-- Built with **HTML, CSS & JavaScript**  
-
----
-
-## 🛠️ Tech Stack  
-- **HTML5**  
-- **CSS3**  
-- **JavaScript (Vanilla JS)**  
-
----
-
-## 📂 Project Structure  
+## 📂 Project Structure    
 animated-clock/
 │── index.html
 │── clock.css
